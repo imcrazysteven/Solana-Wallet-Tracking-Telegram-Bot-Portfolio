@@ -3,7 +3,7 @@
 An open-source, real-time **Solana wallet tracker** with Telegram notifications for portfolio and transaction monitoring on the Solana blockchain.
 
 <p align="center">
-  <img src="https://github.com/steven228312/Solana-Wallet-Tracking-Telegram-Bot-Portfolio/blob/main/public/Usage.gif" alt="Home video">
+  <img src="https://github.com/imcrazysteven/Solana-Wallet-Tracking-Telegram-Bot-Portfolio/blob/main/public/Usage.gif" alt="Home video">
 </p>
 
 ## Solana Wallet Monitoring Overview
@@ -32,7 +32,7 @@ The system is built on three core components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/steven228312/Solana-Wallet-Tracking-Telegram-Bot.git
+git clone https://github.com/imcrazysteven/Solana-Wallet-Tracking-Telegram-Bot.git
 
 # Navigate to the project directory
 cd Solana-Wallet-Tracking-Telegram-Bot
@@ -152,13 +152,15 @@ Yes, transaction data is stored in MongoDB for historical analysis.
 ## License
 This project is licensed under the [MIT License](./LICENSE).
 
-## Contact Information
+## 📞 Contact & Support
 
-- Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
-- GitHub: [Steven Leal(steven228312)](https://github.com/steven228312)
-- Telegram: [@steven228312](https://t.me/steven228312)
-- Twitter: [@steven228312](https://twitter.com/steven228312)
-- Instagram: [@steven228312](https://www.instagram.com/steven228312/)
+- **Email**: [imcrazysteven143@gmail.com](mailto:imcrazysteven143@gmail.com)
+- **GitHub**: [Steven (@imcrazysteven)](https://github.com/imcrazysteven)
+- **Telegram**: [@imcrazysteven](https://t.me/imcrazysteven)
+- **Twitter**: [@imcrazysteven](https://x.com/imcrazysteven)
+- **Instagram**: [@imcrazysteven](https://www.instagram.com/imcrazysteven/)
+
+---
 
 
 ## Keywords
